@@ -1,1 +1,1 @@
-![Alt] (/grafica.jpg)
+![Alt](/grafica.jpg)
