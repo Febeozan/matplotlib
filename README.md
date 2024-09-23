@@ -1,1 +1,1 @@
-# matplotlib
+![Alt] (/grafica.jpg)
